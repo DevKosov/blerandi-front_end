@@ -19,7 +19,6 @@ Website
 |index.html
 ```
 
-
 ##  5 seksionet, header dhe footer
 
 N ket parti anglisht shkaku se gjuha e informatikes edhe informacione serioze.
