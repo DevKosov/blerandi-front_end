@@ -6,6 +6,17 @@ Tema : **Product landing page**.
 Prezanto ni produkt qfare dush ti (Patika addidass, Kerr mercedes, etc..). Ideja osht qe me prezantu produktin me ni website single page. 
 Duhet mi pas paqare 5 seksione : Main section, About section, other products section edhe contact us. Munesh me shtu edhe ni qeter section Video section. Ose me fusionu bashk Video section me Main section. 
 
+## Website structure
+Website
+|css|
+    |style.css
+|images|
+    |image.png
+    |image2.png
+|videos|
+       |video.mp4
+|index.html
+
 ##  5 seksionet, header dhe footer
 
 N ket parti anglisht shkaku se gjuha e informatikes edhe informacione serioze.
