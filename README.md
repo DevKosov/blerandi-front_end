@@ -8,6 +8,7 @@ Duhet mi pas paqare 5 seksione : Main section, About section, other products sec
 
 ## Website structure
 Website
+```
 |css|
     |style.css
 |images|
@@ -16,6 +17,8 @@ Website
 |videos|
        |video.mp4
 |index.html
+```
+
 
 ##  5 seksionet, header dhe footer
 
